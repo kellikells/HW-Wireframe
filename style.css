@@ -23,23 +23,23 @@ header, nav, footer {
 body { 
     font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
     color: black;
-    background-color: #777;
-    width: 960px;
+    background-color: white;
+    width: 1060px;
     font-size: 18px;
 }
 
 header, nav, section, aside, footer {
-    background-color: #ebebeb;
+    background-color: lightblue;
 }
 
 article {
-    color: #777;
-    background-color:#ebebeb;
+    color: darkmagenta;
+    background-color: lightpink;
 }
 
 h1, p {
-    color: #777;
-    background-color: #ebebeb;
+    color: darkslategray;
+    background-color: #d3e439;
 }
 
 .center {
