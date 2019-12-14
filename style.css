@@ -2,7 +2,7 @@
 /*gets rid of the box model*/
 * {
     box-sizing: border-box;
-}
+  }
 
 /*resets all margin and padding values*/
 * {
@@ -42,11 +42,25 @@ h1, p {
     background-color: #ebebeb;
 }
 
-section {
-    width: 495px;
-}
-
 .center {
     text-align: center;
 }
+
+aside {
+    width: 415px;
+    float: right;
+    clear: right;
+}
+
+section {
+    width: 495px;
+    float: left;
+    clear: left;
+}
+
+.floatclear {
+    overflow: auto;
+}
+
+
 
