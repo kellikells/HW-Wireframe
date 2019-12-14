@@ -10,8 +10,8 @@
     padding: 0;
 }
 
-/*makes the header and navigation block elements*/
-header , nav {
+/*makes the header, nav, and footer block elements*/
+header, nav, footer {
     display: block;
 }
 
@@ -49,3 +49,4 @@ section {
 .center {
     text-align: center;
 }
+
